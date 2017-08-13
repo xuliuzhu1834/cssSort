@@ -1,0 +1,15 @@
+{
+  "name": "css-sort",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cssjson": "^2.1.3",
+    "sort-specificity": "^1.0.1"
+  }
+}
